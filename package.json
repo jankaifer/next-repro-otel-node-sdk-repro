@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@opentelemetry/sdk-node": "^0.38.0",
+    "@opentelemetry/sdk-trace-base": "^1.12.0",
+    "@opentelemetry/sdk-trace-node": "^1.12.0",
     "next": "canary",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
